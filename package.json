@@ -1,0 +1,20 @@
+{
+  "name": "splitpayment",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "static-server public"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "package-lock.json": "^1.0.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.14.0"
+  },
+  "description": ""
+}
